@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "윤도원의 깃허브브"
+title                    : "윤도원의 깃허브"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dowon-Yun"
-description              : "윤도원의 깃허브입니다.."
+description              : #
 url                      : "https://dowon-yun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
