@@ -21,7 +21,7 @@ title                    : "윤도원의 깃허브"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "dowon-Yun"
-description              : "윤도원의 깃허브입니다.."
+description              : # "윤도원의 깃허브입니다."
 url                      : "https://dowon-yun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
