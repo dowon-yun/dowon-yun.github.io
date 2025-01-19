@@ -121,10 +121,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:dwy320@naver.com"
+      url: "mailto:dwy320@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://dowon-yun.github.io"
+      url: "https://dowon-yun.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/yundowon/"
+      url: "https://www.instagram.com/yundowon/"
 
 # Site Footer
 footer:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://dowon-yun.github.io"
+      url: "https://dowon-yun.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/yundowon/"
+      url: "https://www.instagram.com/yundowon/"
 
 
 # Reading Files
